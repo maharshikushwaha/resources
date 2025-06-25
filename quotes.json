@@ -1,1 +1,248 @@
+[
+  {
+    "quote": "A year from now you may wish you had started today.",
+    "author": "Karen Lamb",
+    "categories": ["motivation", "time"]
+  },
+  {
+    "quote": "If you want to fly, you have to give up the things that weigh you down.",
+    "author": "Toni Morrison",
+    "categories": ["growth", "freedom"]
+  },
+  {
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "categories": ["choice", "self"]
+  },
+  {
+    "quote": "Push yourself, because no one else is going to do it for you.",
+    "author": "Unknown",
+    "categories": ["motivation", "discipline"]
+  },
+  {
+    "quote": "You can waste your lives drawing lines. Or you can live your life crossing them.",
+    "author": "Shonda Rhimes",
+    "categories": ["courage", "action"]
+  },
+  {
+    "quote": "Your time is limited, don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "categories": ["life", "authenticity"]
+  },
+  {
+    "quote": "If you want something you’ve never had, you must be willing to do something you’ve never done.",
+    "author": "Thomas Jefferson",
+    "categories": ["risk", "growth"]
+  },
+  {
+    "quote": "When you know better, you do better.",
+    "author": "Maya Angelou",
+    "categories": ["wisdom", "growth"]
+  },
+  {
+    "quote": "Don’t let what you can’t do stop you from doing what you can do.",
+    "author": "John Wooden",
+    "categories": ["perseverance", "action"]
+  },
+  {
+    "quote": "We can do anything we want to if we stick to it long enough.",
+    "author": "Helen Keller",
+    "categories": ["determination", "perseverance"]
+  },
+  {
+    "quote": "I am deliberate and afraid of nothing.",
+    "author": "Audre Lorde",
+    "categories": ["confidence", "fearlessness"]
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "categories": ["motivation", "consistency"]
+  },
+  {
+    "quote": "I didn’t get there by wishing for it or hoping for it, but by working for it.",
+    "author": "Estée Lauder",
+    "categories": ["work", "success"]
+  },
+  {
+    "quote": "You learn more from failure than from success.",
+    "author": "Unknown",
+    "categories": ["learning", "failure"]
+  },
+  {
+    "quote": "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett",
+    "categories": ["fear", "dreams"]
+  },
+  {
+    "quote": "Motivation is what gets you started. Habit is what keeps you going.",
+    "author": "Jim Ryun",
+    "categories": ["motivation", "discipline"]
+  },
+  {
+    "quote": "There is no traffic jam along the extra mile.",
+    "author": "Roger Staubach",
+    "categories": ["effort", "success"]
+  },
+  {
+    "quote": "You are never too old to reinvent yourself.",
+    "author": "Steve Harvey",
+    "categories": ["growth", "change"]
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "categories": ["adventure", "life"]
+  },
+  {
+    "quote": "Doubt whom you will, but never yourself.",
+    "author": "Christian Nestell Bovee",
+    "categories": ["self", "confidence"]
+  },
+  {
+    "quote": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
+    "author": "Unknown",
+    "categories": ["strength", "resilience"]
+  },
+  {
+    "quote": "Everything negative – pressure, challenges – is all an opportunity for me to rise.",
+    "author": "Kobe Bryant",
+    "categories": ["challenge", "mindset"]
+  },
+  {
+    "quote": "Do not be embarrassed by your failures, learn from them and start again.",
+    "author": "Richard Branson",
+    "categories": ["failure", "growth"]
+  },
+  {
+    "quote": "Action is the foundational key to all success.",
+    "author": "Pablo Picasso",
+    "categories": ["action", "success"]
+  },
+  {
+    "quote": "Strength does not come from the physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi",
+    "categories": ["strength", "willpower"]
+  },
+  {
+    "quote": "Discipline is the bridge between goals and accomplishment.",
+    "author": "Jim Rohn",
+    "categories": ["discipline", "goals"]
+  },
+  {
+    "quote": "A goal without a plan is just a wish.",
+    "author": "Antoine de Saint-Exupéry",
+    "categories": ["goals", "planning"]
+  },
+  {
+    "quote": "Success is getting what you want. Happiness is wanting what you get.",
+    "author": "Dale Carnegie",
+    "categories": ["success", "happiness"]
+  },
+  {
+    "quote": "Energy and persistence conquer all things.",
+    "author": "Benjamin Franklin",
+    "categories": ["energy", "persistence"]
+  },
+  {
+    "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson",
+    "categories": ["leadership", "courage"]
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "categories": ["dreams", "belief"]
+  },
+  {
+    "quote": "Don’t tell people your plans. Show them your results.",
+    "author": "Unknown",
+    "categories": ["action", "focus"]
+  },
+  {
+    "quote": "Small deeds done are better than great deeds planned.",
+    "author": "Peter Marshall",
+    "categories": ["action", "execution"]
+  },
+  {
+    "quote": "Inspiration does exist, but it must find you working.",
+    "author": "Pablo Picasso",
+    "categories": ["inspiration", "work"]
+  },
+  {
+    "quote": "Wake up with determination. Go to bed with satisfaction.",
+    "author": "Unknown",
+    "categories": ["discipline", "fulfillment"]
+  },
+  {
+    "quote": "The expert in anything was once a beginner.",
+    "author": "Helen Hayes",
+    "categories": ["learning", "growth"]
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "categories": ["action", "success"]
+  },
+  {
+    "quote": "Work hard in silence, let your success be your noise.",
+    "author": "Frank Ocean",
+    "categories": ["success", "humility"]
+  },
+  {
+    "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "author": "Og Mandino",
+    "categories": ["failure", "determination"]
+  },
+  {
+    "quote": "I can and I will. Watch me.",
+    "author": "Carrie Green",
+    "categories": ["confidence", "determination"]
+  },
+  {
+    "quote": "You can do anything, but not everything.",
+    "author": "David Allen",
+    "categories": ["focus", "priorities"]
+  },
+  {
+    "quote": "Difficult roads often lead to beautiful destinations.",
+    "author": "Zig Ziglar",
+    "categories": ["perseverance", "hope"]
+  },
+  {
+    "quote": "We may encounter many defeats but we must not be defeated.",
+    "author": "Maya Angelou",
+    "categories": ["resilience", "defeat"]
+  },
+  {
+    "quote": "The secret of success is to do the common things uncommonly well.",
+    "author": "John D. Rockefeller",
+    "categories": ["success", "excellence"]
+  },
+  {
+    "quote": "Don’t wish it were easier. Wish you were better.",
+    "author": "Jim Rohn",
+    "categories": ["self-improvement", "challenge"]
+  },
+  {
+    "quote": "Well done is better than well said.",
+    "author": "Benjamin Franklin",
+    "categories": ["action", "integrity"]
+  },
+  {
+    "quote": "Your passion is waiting for your courage to catch up.",
+    "author": "Isabelle Lafleche",
+    "categories": ["passion", "courage"]
+  },
+  {
+    "quote": "Everything you’ve ever wanted is on the other side of fear.",
+    "author": "George Addair",
+    "categories": ["fear", "courage"]
+  },
+  {
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe",
+    "categories": ["action", "resourcefulness"]
+  }
+]
 
